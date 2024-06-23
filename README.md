@@ -1,3 +1,3 @@
 # Sequence-Detector
 
-Detects the sequence 0101.
+Detects the sequence 1010.
